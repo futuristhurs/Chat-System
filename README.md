@@ -8,7 +8,7 @@ Installation
 To run the chat application, you will need to have Java installed on your machine. You can download and install the latest version of Java from the official website.
 Once you have Java installed, you can clone this repository to your local machine using the following command:
 
-'git clone https://github.com/your-username/chat-application.git'
+'git clone https://github.com/futuristhurs/chat-application.git'
 
 
 Usage
